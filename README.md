@@ -1,1 +1,1 @@
-# Katacoda Scenarios - [katacoda.com/stacc/](https://katacoda.com/stacc/)
+# Katacoda Scenarios - [katacoda.com/stacc](https://katacoda.com/stacc/)
