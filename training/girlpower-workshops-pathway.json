@@ -1,11 +1,13 @@
 {
   "title": "Girlpower Workshops",
-  "description": "Girlpower Workshops",
+  "description": "Collections of Stacc Girlpower workshops",
   "courses": [
     {
-      "pathway_id": "stacc/profile",
-      "title": "Girlpower Workshops",
-      "description": "Collections of Stacc Girlpower workshops"
+      "pathway_id": "stacc",
+      "id": "girlpower-findnearest",
+      "course_id": "girlpower-findnearest",
+      "title": "Find Nearest",
+      "description": "Technologies used in this project is Deck.gl, Webpack, Google Maps and plain JS"
     }
   ]
 }
