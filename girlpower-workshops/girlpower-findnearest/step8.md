@@ -1,4 +1,4 @@
-# Create a new layer based on the cleaness rating
+# Shortest path to toilet
 
 Open the index.js file `src/index.js`
 
