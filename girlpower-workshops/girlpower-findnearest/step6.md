@@ -22,6 +22,10 @@ const hexagon = () => new HexagonLayer({
 });
 ```
 
+```html
+<span class="button" id="heatmap" onClick="setHeatMap()">Dyraste område</span>
+```
+
 This is an example of creating the scatterplot layer for representing each toilet.
 
 Can you create a new layer to show the hexagon layer?
