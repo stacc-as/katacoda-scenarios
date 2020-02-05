@@ -1,7 +1,6 @@
 {
   "title": "Girlpower Workshops",
   "description": "Collections of Stacc Girlpower workshops",
-  "icon": "fa-katacoda",
   "courses": [
     {
       "pathway_id": "stacc",
