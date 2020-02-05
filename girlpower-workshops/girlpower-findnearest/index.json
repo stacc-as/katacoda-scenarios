@@ -45,8 +45,6 @@
     ]
   },
   "backend": {
-    "dockerimage": "dind1604-direct",
-    "env": "ubuntu",
-    "port": ""
+    "imageid": "docker"
   }
 }
