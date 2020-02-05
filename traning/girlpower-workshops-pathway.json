@@ -3,7 +3,7 @@
   "description": "Collections of Stacc Girlpower workshops",
   "courses": [
     {
-      "pathway_id": "stacc",
+      "pathway_id": "stacc/girlpower-workshops",
       "id": "girlpower-workshops/girlpower-findnearest",
       "course_id": "girlpower-workshops/girlpower-findnearest",
       "title": "Find Nearest",
