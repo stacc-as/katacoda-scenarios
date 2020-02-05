@@ -5,8 +5,8 @@
   "courses": [
     {
       "course_id": "girlpower-findnearest",
-      "pathway_id": "girlpower-findnearest",
-      "id": "girlpower-workshops/girlpower-findnearest",
+      "pathway_id": "stacc",
+      "id": "girlpower-findnearest",
       "title": "Find Nearest",
       "description": "Technologies used in this project is Deck.gl, Webpack, Google Maps and plain JS"
     }
